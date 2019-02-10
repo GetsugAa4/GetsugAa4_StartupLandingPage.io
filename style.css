@@ -1,0 +1,25 @@
+@font-face{
+    font-family: 'Checkbook';
+    src: url('CHECKBK0.TTF');
+}
+html {
+    background-image: url('https://cdn-l-cyberpunk.cdprojektred.com/gallery/2160p/screen-beautiful-and-deadly-en.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+}
+body,.container{
+    height: 100%;
+    background-color: transparent;
+}
+.row   {
+    height: 50%;
+}
+p {
+    font-family: 'Checkbook';
+    font-size: 3em;
+    color: blueviolet;
+    line-height: 25px;
+}
